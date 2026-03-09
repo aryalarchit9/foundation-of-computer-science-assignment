@@ -102,7 +102,6 @@ The SQL scripts can be executed using any relational database system such as:
 | Task1-Encoding        | Explanation of encoding formats used in secure data transmission       |
 | Task2-Seating-Problem | Analysis of the seating arrangement problem and algorithmic approaches |
 | Task3-Database        | SQL scripts for database design and queries                            |
-| report                | Final assignment report PDF                                            |
 
 ---
 
